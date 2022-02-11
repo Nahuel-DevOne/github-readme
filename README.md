@@ -237,16 +237,20 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💬 Hobbies : Reading and Writing Blogs
+- 🔥
+<!-- Hecho con amor -->
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)
 
 <!-- Contador de visitas -->
 <!-- Posicionado a la derecha -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yourGithubUserName&label=Profile%20views&color=blue&style=plastic" alt="GitHubUserName" /> </p>
 <!-- Posicionado al centro -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=red&style=plastic" alt="nahuel-devone" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourGithubUserName&label=Profile%20views&color=red&style=plastic" alt="GitHubUserName" /> </p>
 <!-- Posicionado a la izquierda -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=green&style=plastic" alt="nahuel-devone" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourGithubUserName&label=Profile%20views&color=green&style=plastic" alt="nGitHubUserName /> </p>
 <!-- Posicionado a la izquierda, se posiciona solo por defecto a la izquierda -->
-<img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" />  
+
+<img src="https://komarev.com/ghpvc/?username=yourGithubUserName&label=Profile%20views&color=blue&style=plastic" alt="GitHubUserName" />  
 
 <!-- Contador de forks -->
 <!-- Esto en el readme donde se quiera ver -->
@@ -254,8 +258,8 @@
 <!-- Esto se puede poner abajo de todo, no se visualiza -->
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/nahuel-devone/ReadMeTemplate?style=for-the-badge
-[forks-url]: https://github.com/nahuel-devone/ReadMeTemplate/network/members
+[forks-shield]: https://img.shields.io/github/forks/yourGitHubUserName/ReadMeTemplate?style=for-the-badge
+[forks-url]: https://github.com/yourGitHubUserName/ReadMeTemplate/network/members
 
 
 <!-- Para saber más de badges -->
