@@ -1,4 +1,5 @@
-Badges and tools for the README:
+# Badges and tools for the README:
+
 
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -260,17 +261,20 @@ Badges and tools for the README:
 <!-- Para saber más de badges -->
 https://shields.io/
 
-
+<!-- 
 ## Ideas para mejorar la presentación, armar una imagen personalizada como esta:
 
 <h1 align="center"> Hello world 👋 </h1>
 <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>
+-->
 
 <!-- En esta iría un logo arriba de todo -->
+<!--
 <div align="center">
   <a href="https://github.com/roshanlam/ReadMeTemplate/">
     <img src="./logo.png" alt="Logo" width="80" height="80">
   </a>
 </div>
+-->
